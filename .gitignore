@@ -1,15 +1,7 @@
 #idea files
 .idea/
-app/app.component.js
-app/app.component.js.map
-app/app.module.js
-app/app.module.js.map
-app/main.js
-app/main.js.map
-app/hero-detail.component.js
-app/hero-detail.component.js.map
-app/hero.js
-app/hero.js.map
+app/*.js
+app/*.map
 
 
 
