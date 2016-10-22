@@ -8,6 +8,10 @@ app/main.js
 app/main.js.map
 app/hero-detail.component.js
 app/hero-detail.component.js.map
+app/hero.js
+app/hero.js.map
+
+
 
 # Logs
 logs
